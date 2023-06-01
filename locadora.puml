@@ -1,0 +1,23 @@
+@startjson
+{
+    "locadora": {
+        "estoque": {
+            "_id": "001",
+            "nome": "duro de matar",
+            "taxa_aluguel": 20.00,
+            "catagoria":[
+            {"_id": "500", "descrição": "ação"}
+            ]
+            }
+        },
+        "clientes": {
+            "_id": "100",
+            "nome": "Jacinto konami",
+            "data_nasc": "20.09.1989",
+            "cpf": "87635489-32",
+            "telefone": "11987654-3213",
+            "email": "konamijaci@gmail.com"
+        }
+    }
+
+@endjson
